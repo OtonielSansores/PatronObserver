@@ -1,0 +1,7 @@
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.exe.config
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.exe
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\bin\Debug\PatronObservador.pdb
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.csprojAssemblyReference.cache
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.csproj.CoreCompileInputs.cache
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.exe
+C:\Users\otoniel.sansores\source\repos\PatronObservador\PatronObservador\obj\Debug\PatronObservador.pdb
